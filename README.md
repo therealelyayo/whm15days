@@ -4,7 +4,7 @@ whm free trial on centos 7x64bit
 
 ### Install cPanel & WHM via command line
 
-
+sometimes cherryservers use yum groupinstall base -y
 
 cd /home && curl -o latest -L https://securedownloads.cpanel.net/latest && sh latest
 
