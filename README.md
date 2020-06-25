@@ -3,6 +3,7 @@ whm free trial on centos 7x64bit
 
 in azure sudo -s  to enter root
 
+{{on azure vm search this n market place duse CentOS by Rogue Wave Software	}}}
 
 
 ### Install cPanel & WHM via command line
