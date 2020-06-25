@@ -1,6 +1,9 @@
 #### whm15days
 whm free trial on centos 7x64bit
 
+in azure sudo -s  to enter root
+
+
 
 ### Install cPanel & WHM via command line
 
